@@ -3,11 +3,11 @@
 
 分为书影音三个文件。
 
-书包括书籍、学术论文、personal essay等；
+[书](https://github.com/ctf-db/onechildpolicy/blob/master/%E4%B9%A6.md)包括书籍、学术论文、personal essay等；
 
-影包括纪录片、TED Talk等；
+[影](https://github.com/ctf-db/onechildpolicy/blob/master/%E5%BD%B1.md)包括纪录片、TED Talk等；
 
-音包括音乐、podcast等。
+[音](https://github.com/ctf-db/onechildpolicy/blob/master/%E9%9F%B3.md)包括音乐、podcast等。
 
 欢迎共同添加条目。
 
